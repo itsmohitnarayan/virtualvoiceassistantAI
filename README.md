@@ -5,7 +5,7 @@ AI powered Voice Assistant
 
 #  AI Voice Assistant
 
-**Jarvis AI Voice Assistant** is a Python-based voice assistant that utilizes the power of the OpenAI API to provide intelligent responses to user queries. It allows you to interact with your computer, open websites, get the current time, play music, and even have conversations with an AI model.
+** AI Voice Assistant** is a Python-based voice assistant that utilizes the power of the OpenAI API to provide intelligent responses to user queries. It allows you to interact with your computer, open websites, get the current time, play music, and even have conversations with an AI model.
 
 ## Features
 
